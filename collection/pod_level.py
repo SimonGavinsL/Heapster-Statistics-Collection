@@ -57,3 +57,4 @@ def pod_level():
 while True:
     pod_level()
     time.sleep(150)
+# Press control + c to stop the process

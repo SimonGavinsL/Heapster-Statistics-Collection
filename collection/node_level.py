@@ -52,3 +52,4 @@ def node_level():
 while True:
     node_level()
     time.sleep(150)
+# Press control + c to stop the process
