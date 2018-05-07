@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463dfb56-5969-4e7f-a533-a1259acafab2" name="Default" comment="" />
+    <list default="true" id="463dfb56-5969-4e7f-a533-a1259acafab2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/collection/collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/node_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/node_level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/pod_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/collection/pod_level.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +25,8 @@
       <file leaf-file-name="node_level.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection/node_level.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="447">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -32,8 +37,8 @@
       <file leaf-file-name="pod_level.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection/pod_level.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="432">
+              <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="39" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -44,8 +49,8 @@
       <file leaf-file-name="collection.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection/collection.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -59,6 +64,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,9 +77,9 @@
         <option value="$PROJECT_DIR$/comparison/dtw.py" />
         <option value="$PROJECT_DIR$/collection/__init__.py" />
         <option value="$PROJECT_DIR$/comparison/comparison.md" />
-        <option value="$PROJECT_DIR$/collection/node_level.py" />
-        <option value="$PROJECT_DIR$/collection/pod_level.py" />
         <option value="$PROJECT_DIR$/collection/collection.md" />
+        <option value="$PROJECT_DIR$/collection/pod_level.py" />
+        <option value="$PROJECT_DIR$/collection/node_level.py" />
       </list>
     </option>
   </component>
@@ -88,6 +96,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -247,11 +256,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -342,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/node_level.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="447">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -352,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/pod_level.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="432">
+          <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="39" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -362,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/collection.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
